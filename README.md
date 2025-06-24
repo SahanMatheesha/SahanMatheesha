@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahan Matheesha</h1>
 <h3 align="center">A passionate software engineer from Colombo, SriLanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahanmatheesha" alt="sahanmatheesha" /></a> </p>
-
 - 🌱 I’m currently learning **MERN,Springboot**
 
 - 💬 Ask me about **react,Node js,java,php**
